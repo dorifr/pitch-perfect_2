@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perfect2/PlaySoundsViewController.swift"
+            timestampString = "448558952.508066"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PlaySoundsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect2.PlaySoundsViewController.__deallocating_deinit"
+                  moduleName = "Pitch Perfect2"
+                  urlString = "file:///Users/einatfroast/Projects/IOS%20course/Intro%20Course/Lesson%201/Pitch%20Perfect2/Pitch%20Perfect2/Pitch%20Perfect2/PlaySoundsViewController.swift"
+                  timestampString = "447438086.30083"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc Pitch_Perfect2.PlaySoundsViewController.__ivar_destroyer"
+                  moduleName = "Pitch Perfect2"
+                  urlString = "file:///Users/einatfroast/Projects/IOS%20course/Intro%20Course/Lesson%201/Pitch%20Perfect2/Pitch%20Perfect2/Pitch%20Perfect2/PlaySoundsViewController.swift"
+                  timestampString = "447438086.302885"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
